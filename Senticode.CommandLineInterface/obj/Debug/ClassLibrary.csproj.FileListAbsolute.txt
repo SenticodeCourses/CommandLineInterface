@@ -1,0 +1,5 @@
+c:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ClassLibrary1\bin\Debug\ClassLibrary.dll
+c:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ClassLibrary1\bin\Debug\ClassLibrary.pdb
+c:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ClassLibrary1\obj\Debug\ClassLibrary.dll
+c:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ClassLibrary1\obj\Debug\ClassLibrary.pdb
+c:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ClassLibrary1\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache

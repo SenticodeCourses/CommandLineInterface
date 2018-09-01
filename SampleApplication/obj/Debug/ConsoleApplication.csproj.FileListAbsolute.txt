@@ -1,0 +1,9 @@
+c:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+c:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+c:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+c:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\bin\Debug\ClassLibrary.dll
+c:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\bin\Debug\ClassLibrary.pdb
+c:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+c:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+c:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\bin\Debug\SampleApplication.exe.config

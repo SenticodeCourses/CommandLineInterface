@@ -1,0 +1,27 @@
+C:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\bin\Debug\SampleApplication.exe.config
+C:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\bin\Debug\SampleApplication.exe
+C:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\bin\Debug\SampleApplication.pdb
+C:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\bin\Debug\Senticode.CommandLineInterface.dll
+C:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\bin\Debug\Senticode.CommandLineInterface.pdb
+C:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\obj\Debug\SampleApplication.csprojResolveAssemblyReference.cache
+C:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\obj\Debug\SampleApplication.exe
+C:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ConsoleApplication\obj\Debug\SampleApplication.pdb
+C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\SampleApplication\bin\Debug\SampleApplication.exe.config
+C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\SampleApplication\obj\Debug\SampleApplication.exe
+C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\SampleApplication\obj\Debug\SampleApplication.pdb
+C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\SampleApplication\obj\Debug\SampleApplication.csprojResolveAssemblyReference.cache
+C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\SampleApplication\bin\Debug\SampleApplication.exe
+C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\SampleApplication\bin\Debug\SampleApplication.pdb
+C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\SampleApplication\bin\Debug\Senticode.CommandLineInterface.dll
+C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\SampleApplication\bin\Debug\Senticode.CommandLineInterface.pdb
+C:\Users\local-V97\Desktop\курсы\code\SampleApplication\bin\Debug\SampleApplication.exe.config
+C:\Users\local-V97\Desktop\курсы\code\SampleApplication\obj\Debug\SampleApplication.exe
+C:\Users\local-V97\Desktop\курсы\code\SampleApplication\obj\Debug\SampleApplication.pdb
+C:\Users\local-V97\Desktop\курсы\code\SampleApplication\bin\Debug\SampleApplication.exe
+C:\Users\local-V97\Desktop\курсы\code\SampleApplication\bin\Debug\SampleApplication.pdb
+C:\Users\local-V97\Desktop\курсы\code\SampleApplication\bin\Debug\Senticode.CommandLineInterface.dll
+C:\Users\local-V97\Desktop\курсы\code\SampleApplication\bin\Debug\Senticode.CommandLineInterface.pdb
+C:\Users\local-V97\Desktop\курсы\code\SampleApplication\obj\Debug\SampleApplication.csprojResolveAssemblyReference.cache
+C:\Users\local-V97\Desktop\курсы\code\cli\SampleApplication\bin\Debug\SampleApplication.exe.config
+C:\Users\local-V97\Desktop\курсы\code\cli\SampleApplication\obj\Debug\SampleApplication.exe
+C:\Users\local-V97\Desktop\курсы\code\cli\SampleApplication\obj\Debug\SampleApplication.pdb

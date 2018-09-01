@@ -1,0 +1,8 @@
+C:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ClassLibrary1\bin\Debug\Senticode.CommandLineInterface.dll
+C:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ClassLibrary1\bin\Debug\Senticode.CommandLineInterface.pdb
+C:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ClassLibrary1\obj\Debug\Senticode.CommandLineInterface.dll
+C:\Users\local-V97\Documents\Visual Studio 2015\Projects\Parser\ClassLibrary1\obj\Debug\Senticode.CommandLineInterface.pdb
+C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\Senticode.CommandLineInterface\bin\Debug\Senticode.CommandLineInterface.dll
+C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\Senticode.CommandLineInterface\bin\Debug\Senticode.CommandLineInterface.pdb
+C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\Senticode.CommandLineInterface\obj\Debug\Senticode.CommandLineInterface.dll
+C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\Senticode.CommandLineInterface\obj\Debug\Senticode.CommandLineInterface.pdb
