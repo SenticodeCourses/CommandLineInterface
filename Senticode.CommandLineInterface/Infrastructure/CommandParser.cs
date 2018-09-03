@@ -6,15 +6,15 @@ using CommandLineInterface.Exceptions;
 
 namespace CommandLineInterface.Infrastructure
 {
-    public class CommandParser
+    internal class CommandParser
     {
-        const string REGEX_STRING = "^-[a-z]{1,20}$";
+        const string RegexString = "^-[a-z]{1,20}$";
 
         public CommandParserResult Parse(string input)
         {
             var commands = new List<CommandInput>();
             string[] commandLines = input.Trim().Split(';');
-            var regex = new Regex(REGEX_STRING);
+            var regex = new Regex(RegexString);
             List<Exception> exceptions = new List<Exception>();
 
             foreach (var line in commandLines)

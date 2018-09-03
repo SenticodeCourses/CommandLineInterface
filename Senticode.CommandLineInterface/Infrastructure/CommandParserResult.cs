@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace CommandLineInterface.Infrastructure
 {
-    public class CommandParserResult
+    internal class CommandParserResult
     {
         public CommandParserResult(IEnumerable<CommandInput> commands,
             Exception exception = null)

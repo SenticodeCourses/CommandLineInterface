@@ -10,9 +10,9 @@ using CommandLineInterface.Helpers;
 
 namespace CommandLineInterface.Infrastructure
 {
-    public class CommandExecuter<TSettings, TCommands>
+    internal class CommandExecuter<TSettings, TCommands>
         where TSettings : AppSettingsBase
-        where TCommands : AppCommandsBase
+        where TCommands : AppCommandsBase<TSettings>
     {
         readonly Queue<CommandInfo> _commandsQueue = new Queue<CommandInfo>();
         readonly Dictionary<string, CommandInfo> _commands;

@@ -1,6 +1,6 @@
 ﻿namespace CommandLineInterface.Infrastructure
 {
-    public class CommandInput
+    internal class CommandInput
     {
         public CommandInput(string commandName, string[] parameters)
         {

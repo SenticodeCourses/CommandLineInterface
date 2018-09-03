@@ -1,0 +1,13 @@
+0. Все публичные методы и классы библиотеки CLI должны иметь XML комментарии на английском языке.
+1. Snippet для команды.
+2. Переехать на .NetStandard 2.0
+3. Реализовать SaveLoadSettingsService.
+4. Написать библиотеку обертку над IoC контейнером: 
+	1.1 Unity
+	1.2 MEF
+	1.3 AutoFac
+5. Протестировать CLI с помощью UnitTests (с использованием NUnit).
+6. Написать ApplicationInitializer.
+7. Сделать команду SaveSettingsCommand.
+8. Добавить где нужно вызов SaveSettings, LoadSettings.
+9. Обработь необработанные ошибки.

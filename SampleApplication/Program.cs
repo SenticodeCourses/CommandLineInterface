@@ -1,6 +1,4 @@
-﻿using SampleApplication.App;
-
-namespace SampleApplication
+﻿namespace SampleApplication
 {
     class Program
     {

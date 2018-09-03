@@ -5,7 +5,7 @@ using CommandLineInterface.Attributes;
 
 namespace CommandLineInterface.Helpers
 {
-    public class CommandsHelper
+    internal class CommandsHelper
     {
         public static Dictionary<string, CommandInfo> GetCommands(object commandsHolder)
         {

@@ -2,7 +2,7 @@
 
 namespace CommandLineInterface.Helpers
 {
-    struct ConsoleStyle
+    internal struct ConsoleStyle
     {
         public ConsoleStyle(ConsoleColor font, ConsoleColor background)
         {

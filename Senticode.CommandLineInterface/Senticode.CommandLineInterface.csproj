@@ -42,12 +42,14 @@
   <ItemGroup>
     <Compile Include="Command.cs" />
     <Compile Include="Command.Generic.cs" />
+    <Compile Include="Commands\ExitCommand.cs" />
+    <Compile Include="Commands\HelpCommand.cs" />
     <Compile Include="Enums\PriorityType.cs" />
     <Compile Include="Helpers\ConsoleStyle.cs" />
     <Compile Include="ConsoleHelper.cs" />
     <Compile Include="Enums\MessageTypes.cs" />
-    <Compile Include="Interfaces\ISerializeService.cs" />
-    <Compile Include="Services\SerializeService.cs" />
+    <Compile Include="Interfaces\ISaveLoadSettingsService.cs" />
+    <Compile Include="Services\Internal\SaveLoadSettingsService.cs" />
     <Compile Include="Attributes\SubscriptionCommandAttribute.cs" />
     <Compile Include="Attributes\SubscriptionSettingAttribute.cs" />
     <Compile Include="Exceptions\InputCommandException.cs" />
@@ -65,9 +67,7 @@
     <Compile Include="AppSettingsBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Services\Internal\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CommandLineInterface.Exceptions
 {
-    public class MultiplyException : Exception
+    internal class MultiplyException : Exception
     {
         public MultiplyException(IEnumerable<Exception> exceptions) :
             this(ToMessage(exceptions))

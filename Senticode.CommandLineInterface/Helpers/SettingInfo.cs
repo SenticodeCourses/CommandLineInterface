@@ -2,7 +2,7 @@
 
 namespace CommandLineInterface.Helpers
 {
-    public class SettingInfo
+    internal class SettingInfo
     {
         public SettingInfo(object setting, SubscriptionSettingAttribute info)
         {

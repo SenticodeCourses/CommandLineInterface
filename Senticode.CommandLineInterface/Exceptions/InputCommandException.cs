@@ -2,7 +2,7 @@
 
 namespace CommandLineInterface.Exceptions
 {
-    public class InputCommandException : Exception
+    internal class InputCommandException : Exception
     {
         public InputCommandException(string command) :
             base($"Input [{command}] is wrong.")

@@ -6,3 +6,8 @@ C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\Sentic
 C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\Senticode.CommandLineInterface\bin\Debug\Senticode.CommandLineInterface.pdb
 C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\Senticode.CommandLineInterface\obj\Debug\Senticode.CommandLineInterface.dll
 C:\Users\local-V97\Desktop\курсы\code\Senticode.CommandLineInterface\Senticode.CommandLineInterface\obj\Debug\Senticode.CommandLineInterface.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.CommandLineInterface\bin\Debug\Senticode.CommandLineInterface.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.CommandLineInterface\bin\Debug\Senticode.CommandLineInterface.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.CommandLineInterface\obj\Debug\Senticode.CommandLineInterface.csprojResolveAssemblyReference.cache
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.CommandLineInterface\obj\Debug\Senticode.CommandLineInterface.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.CommandLineInterface\obj\Debug\Senticode.CommandLineInterface.pdb

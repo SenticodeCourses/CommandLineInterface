@@ -2,7 +2,7 @@
 
 namespace CommandLineInterface.Helpers
 {
-    public class CommandInfo
+    internal class CommandInfo
     {
         public CommandInfo(Command command, SubscriptionCommandAttribute info)
         {
