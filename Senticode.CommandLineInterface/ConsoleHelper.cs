@@ -5,7 +5,7 @@ using CommandLineInterface.Helpers;
 
 namespace CommandLineInterface
 {
-    internal static class ConsoleHelper
+    public static class ConsoleHelper
     {
         static readonly Dictionary<MessageTypes, ConsoleStyle> ConsoleColors =
             new Dictionary<MessageTypes, ConsoleStyle>

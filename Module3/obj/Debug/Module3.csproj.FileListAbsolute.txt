@@ -1,0 +1,9 @@
+C:\Users\local-V97\Desktop\курсы\code\cli\Module3\bin\Debug\Module3.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Module3\bin\Debug\Module3.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Module3\bin\Debug\Common.Interfaces.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Module3\bin\Debug\Senticode.AppEnvironment.Common.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Module3\bin\Debug\Common.Interfaces.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Module3\bin\Debug\Senticode.AppEnvironment.Common.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Module3\obj\Debug\Module3.csprojResolveAssemblyReference.cache
+C:\Users\local-V97\Desktop\курсы\code\cli\Module3\obj\Debug\Module3.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Module3\obj\Debug\Module3.pdb

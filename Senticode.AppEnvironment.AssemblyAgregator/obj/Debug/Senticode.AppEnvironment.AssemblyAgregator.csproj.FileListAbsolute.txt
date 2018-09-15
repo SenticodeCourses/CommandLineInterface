@@ -1,0 +1,17 @@
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\bin\Debug\Senticode.AppEnvironment.AssemblyAgregator.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\bin\Debug\Senticode.AppEnvironment.AssemblyAgregator.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\bin\Debug\Senticode.AppEnvironment.Common.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\bin\Debug\Senticode.AppEnvironment.Common.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\obj\Debug\Senticode.AppEnvironment.AssemblyAgregator.csprojResolveAssemblyReference.cache
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\obj\Debug\Senticode.AppEnvironment.AssemblyAgregator.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\obj\Debug\Senticode.AppEnvironment.AssemblyAgregator.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\bin\Debug\MocObjects.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\bin\Debug\Module1.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\bin\Debug\Module2.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\bin\Debug\Module3.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\bin\Debug\Common.Interfaces.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\bin\Debug\MocObjects.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\bin\Debug\Module1.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\bin\Debug\Module2.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\bin\Debug\Module3.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.AssemblyAgregator\bin\Debug\Common.Interfaces.pdb

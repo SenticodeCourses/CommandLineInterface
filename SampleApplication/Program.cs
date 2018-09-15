@@ -1,4 +1,6 @@
-﻿namespace SampleApplication
+﻿using System;
+
+namespace SampleApplication
 {
     class Program
     {

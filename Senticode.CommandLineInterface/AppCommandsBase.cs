@@ -14,6 +14,7 @@ namespace CommandLineInterface
         {
             AppSettings = settings;
             ExitCommand = new ExitCommand<TSettings>(settings);
+            HelpCommand = new HelpCommand<TSettings>(this);
         }
 
         /// <summary>
@@ -31,6 +32,6 @@ namespace CommandLineInterface
         ///     Command shows application help.
         /// </summary>
         [SubscriptionCommand("-help", "help_FirstCommand")]
-        public Command HelpCommand { get; } = new HelpCommand();
+        public Command HelpCommand { get; private set; }
     }
 }

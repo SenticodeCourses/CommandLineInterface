@@ -1,0 +1,9 @@
+C:\Users\local-V97\Desktop\курсы\code\cli\MocObjects\bin\Debug\MocObjects.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\MocObjects\bin\Debug\MocObjects.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\MocObjects\bin\Debug\Common.Interfaces.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\MocObjects\bin\Debug\Senticode.AppEnvironment.Common.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\MocObjects\bin\Debug\Common.Interfaces.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\MocObjects\bin\Debug\Senticode.AppEnvironment.Common.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\MocObjects\obj\Debug\MocObjects.csprojResolveAssemblyReference.cache
+C:\Users\local-V97\Desktop\курсы\code\cli\MocObjects\obj\Debug\MocObjects.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\MocObjects\obj\Debug\MocObjects.pdb

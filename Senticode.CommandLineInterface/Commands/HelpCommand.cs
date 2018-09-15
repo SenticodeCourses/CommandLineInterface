@@ -1,18 +1,26 @@
 ﻿using System;
+using System.Collections.Generic;
 using CommandLineInterface.Enums;
+using CommandLineInterface.Helpers;
 
 namespace CommandLineInterface.Commands
 {
-    internal class HelpCommand : Command
+    internal class HelpCommand<TSettings> : Command
+        where TSettings : AppSettingsBase
     {
+        private static Dictionary<string, CommandInfo> _commands;
+
         static void Execute()
         {
-            ConsoleHelper.WriteLine("sucsess", MessageTypes.CommandResult);
+            foreach (var command in _commands)
+            {
+                ConsoleHelper.WriteLine(command.Key + ": " + command.Value.Info.Help, MessageTypes.Help);
+            }
         }
 
-        public HelpCommand() : this(Execute, () => true)
+        public HelpCommand(AppCommandsBase<TSettings> appCommands) : this(Execute, () => true)
         {
-            
+            _commands = CommandsHelper.GetCommands(appCommands);
         }
 
         private HelpCommand(Action executeCommandName, Func<bool> canExecuteCommandName = null) :

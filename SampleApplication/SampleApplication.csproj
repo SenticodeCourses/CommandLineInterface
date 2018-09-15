@@ -49,6 +49,7 @@
     <Compile Include="Commands\AppCommands.SampleCommand.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\ConsoleLogger.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">
@@ -56,9 +57,25 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Common.Interfaces\Common.Interfaces.csproj">
+      <Project>{DB656C8D-9339-40C5-B472-C0DA35EA7ADF}</Project>
+      <Name>Common.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Senticode.AppEnvironment.AssemblyAgregator\Senticode.AppEnvironment.AssemblyAgregator.csproj">
+      <Project>{49F6DAC7-56E9-44A0-98CE-2568857C714B}</Project>
+      <Name>Senticode.AppEnvironment.AssemblyAgregator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Senticode.AppEnvironment.Common\Senticode.AppEnvironment.Common.csproj">
+      <Project>{4B454815-1A68-4CFF-80BF-5A6F10E5F48E}</Project>
+      <Name>Senticode.AppEnvironment.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Senticode.CommandLineInterface\Senticode.CommandLineInterface.csproj">
       <Project>{d2e52098-54d7-457f-a05f-0dec809b036b}</Project>
       <Name>Senticode.CommandLineInterface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Senticode.UnityIoC\Senticode.UnityIoC.csproj">
+      <Project>{5ae57e16-f440-4a4e-860b-7cc80335bd7d}</Project>
+      <Name>Senticode.UnityIoC</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,0 +1,9 @@
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.UnityIoC\bin\Debug\Senticode.UnityIoC.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.UnityIoC\bin\Debug\Senticode.UnityIoC.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.UnityIoC\bin\Debug\Senticode.AppEnvironment.Common.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.UnityIoC\bin\Debug\Unity.Abstractions.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.UnityIoC\bin\Debug\Unity.Container.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.UnityIoC\bin\Debug\Senticode.AppEnvironment.Common.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.UnityIoC\obj\Debug\Senticode.UnityIoC.csprojResolveAssemblyReference.cache
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.UnityIoC\obj\Debug\Senticode.UnityIoC.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.UnityIoC\obj\Debug\Senticode.UnityIoC.pdb

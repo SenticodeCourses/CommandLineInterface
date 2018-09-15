@@ -1,0 +1,5 @@
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.Common\bin\Debug\Senticode.AppEnvironment.Common.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.Common\bin\Debug\Senticode.AppEnvironment.Common.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.Common\obj\Debug\Senticode.AppEnvironment.Common.csprojResolveAssemblyReference.cache
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.Common\obj\Debug\Senticode.AppEnvironment.Common.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Senticode.AppEnvironment.Common\obj\Debug\Senticode.AppEnvironment.Common.pdb

@@ -1,0 +1,5 @@
+C:\Users\local-V97\Desktop\курсы\code\cli\Common.Interfaces\bin\Debug\Common.Interfaces.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Common.Interfaces\bin\Debug\Common.Interfaces.pdb
+C:\Users\local-V97\Desktop\курсы\code\cli\Common.Interfaces\obj\Debug\Common.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\local-V97\Desktop\курсы\code\cli\Common.Interfaces\obj\Debug\Common.Interfaces.dll
+C:\Users\local-V97\Desktop\курсы\code\cli\Common.Interfaces\obj\Debug\Common.Interfaces.pdb
