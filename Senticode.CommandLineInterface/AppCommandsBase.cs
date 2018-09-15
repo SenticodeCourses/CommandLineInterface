@@ -31,7 +31,7 @@ namespace CommandLineInterface
         /// <summary>
         ///     Command shows application help.
         /// </summary>
-        [SubscriptionCommand("-help", "help_FirstCommand")]
+        [SubscriptionCommand("-help", "Command shows application help.")]
         public Command HelpCommand { get; private set; }
     }
 }

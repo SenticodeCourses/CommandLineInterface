@@ -5,7 +5,7 @@ namespace SampleApplication.Commands
 {
     public partial class AppCommands
     {
-        [SubscriptionCommand("-sample", "help")]
+        [SubscriptionCommand("-sample", "Gets data from services.")]
         public Command CommandNameCommand => _commandNameCommand ??
             (_commandNameCommand = new Command(ExecuteCommandName, CanExecuteCommandName));
 
